@@ -6,10 +6,6 @@ Control media playback on your computer using hand gestures detected through you
 
 Uses your webcam to track hand landmarks in real time and maps specific gestures to media controls — play/pause, volume up/down, skip tracks — without touching your keyboard or mouse.
 
-## Demo
-
-> *Add a GIF or screenshot of the gesture detection in action here*
-
 ## Tech Stack
 
 - **Python 3.8+**
